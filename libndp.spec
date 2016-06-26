@@ -1,13 +1,13 @@
 Summary:	Library for Neighbor Discovery Protocol
 Summary(pl.UTF-8):	Biblioteka obsługująca protokół NDP (Neighbor Discovery Protocol)
 Name:		libndp
-Version:	1.3
-Release:	2
+Version:	1.6
+Release:	1
 License:	LGPL v2.1+
 Group:		Libraries
 #Source0Download: http://libndp.org/
 Source0:	http://libndp.org/files/%{name}-%{version}.tar.gz
-# Source0-md5:	e4ac1fce2faa664ba8b20df581bf30ea
+# Source0-md5:	1e54d26bcb4a4110bc3f90c5dd04f1a7
 URL:		http://libndp.org/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
